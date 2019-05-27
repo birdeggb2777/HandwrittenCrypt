@@ -1,0 +1,11 @@
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\bin\Debug\HandwrittenCrypt(加密檔).exe.config
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\bin\Debug\HandwrittenCrypt(加密檔).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\bin\Debug\HandwrittenCrypt(加密檔).pdb
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt_加密檔_.Form1.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt_加密檔_.Properties.Resources.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt(加密檔).csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt(加密檔).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt(加密檔).pdb
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt_加密檔_.Form2.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt_加密檔_.Form3.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(加密檔)\HandwrittenCrypt(加密檔)\obj\Debug\HandwrittenCrypt(加密檔).csprojResolveAssemblyReference.cache

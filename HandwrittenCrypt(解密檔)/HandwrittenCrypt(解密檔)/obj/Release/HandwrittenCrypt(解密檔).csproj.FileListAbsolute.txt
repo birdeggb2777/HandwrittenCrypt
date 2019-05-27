@@ -1,0 +1,6 @@
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\bin\Release\HandwrittenCrypt(解密檔).exe.config
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\bin\Release\HandwrittenCrypt(解密檔).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Release\HandwrittenCrypt_解密檔_.Form1.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Release\HandwrittenCrypt_解密檔_.Properties.Resources.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Release\HandwrittenCrypt(解密檔).csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Release\HandwrittenCrypt(解密檔).exe

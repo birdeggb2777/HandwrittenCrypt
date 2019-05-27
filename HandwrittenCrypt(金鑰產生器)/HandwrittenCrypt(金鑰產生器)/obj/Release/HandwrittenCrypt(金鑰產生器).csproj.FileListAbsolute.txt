@@ -1,0 +1,6 @@
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\bin\Release\HandwrittenCrypt(金鑰產生器).exe.config
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\bin\Release\HandwrittenCrypt(金鑰產生器).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\obj\Release\HandwrittenCrypt_金鑰產生器_.Form1.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\obj\Release\HandwrittenCrypt_金鑰產生器_.Properties.Resources.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\obj\Release\HandwrittenCrypt(金鑰產生器).csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\HandwrittenCrypt(金鑰產生器)\HandwrittenCrypt(金鑰產生器)\obj\Release\HandwrittenCrypt(金鑰產生器).exe

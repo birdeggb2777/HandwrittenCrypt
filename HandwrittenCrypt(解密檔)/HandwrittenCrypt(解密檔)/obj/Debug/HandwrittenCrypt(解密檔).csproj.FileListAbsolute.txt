@@ -1,0 +1,9 @@
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\bin\Debug\HandwrittenCrypt(解密檔).exe.config
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\bin\Debug\HandwrittenCrypt(解密檔).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\bin\Debug\HandwrittenCrypt(解密檔).pdb
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt(解密檔).csprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt_解密檔_.Form1.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt_解密檔_.Properties.Resources.resources
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt(解密檔).csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt(解密檔).exe
+C:\Users\VIP\Desktop\HandwrittenCrypt(解密檔)\HandwrittenCrypt(解密檔)\obj\Debug\HandwrittenCrypt(解密檔).pdb
